@@ -18,6 +18,7 @@ function greet (name){
   console.log("Hello, my name is " + name);
 }
 
+debugger;
 
 /* Create a variable called `canDrive`,
  * if it should be true if your person object is at least 16 years old
